@@ -2,4 +2,6 @@
 
 What's up guys
 
-adding merge conflict
+
+
+new line of code 
