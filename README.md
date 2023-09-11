@@ -2,4 +2,4 @@
 
 What's up guys
 
-Nothing much, chicken butt!
+adding merge conflict
