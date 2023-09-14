@@ -1,7 +1,2 @@
 # Team Workflow
-
-What's up guys
-
-
-
-new line of code 
+Putting some general notes for the different pages/folders 
